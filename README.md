@@ -12,16 +12,6 @@ Olá, me chamo Thiago e sou um iniciante na programação.
 - 💻 Sempre disposto a procurar coisas novas.
 - 🌱 Aprendendo sobre tudo um pouco.
 
-<div align="right" width="700">
-    <img align="center" src="https://i.imgur.com/hkpVEvr.png" title="html5" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/AsQqunT.png" title="javascript"width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/Nhuq1Gt.png" title="nodejs" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/tHz49Lt.png" title="npm" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/WPOuZqI.png" title="git" width="25"/>&nbsp;
-    <img align="center" src="https://i.imgur.com/O1X88tn.png" title="python" width="25"/>&nbsp;
-
-</div>
-
 ---
 
 <p align="center">
