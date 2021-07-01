@@ -36,7 +36,6 @@ Olá, me chamo Thiago e sou um iniciante na programação.
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
----
 
 <p align="center">
   <a href="https://discord.com/users/331468763876818957"><img src="https://discord.c99.nl/widget/theme-4/331468763876818957.png" </a>
