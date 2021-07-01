@@ -4,6 +4,8 @@
 
 Olá, me chamo Thiago e sou um iniciante na programação.
 
+---
+
 ### 🧑 Sobre mim
 
 - 🎓 Estou a pouco tempo atuando como desenvolvedor.
@@ -41,9 +43,16 @@ Olá, me chamo Thiago e sou um iniciante na programação.
 - ⚡ Fun fact: ...
 -->
 
-<!--## Technologies and tools・💻
+## Ferramentas・💻
 
-<p align="left">
+<p align="center">
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+
+<!--<p align="left">
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59?logo=express&style=for-the-badge" height="25" />
