@@ -39,9 +39,7 @@ Olá, me chamo Thiago e sou um iniciante na programação.
 ---
 
 <p align="center">
-  <a href="https://discord.com/users/331468763876818957"><img src="https://discord.c99.nl/widget/theme-4/331468763876818957.png" /></a>
-  <br />
-  </a>
+  <a href="https://discord.com/users/331468763876818957"><img src="https://discord.c99.nl/widget/theme-4/331468763876818957.png" </a>
 </p>
 
 <!--<p align="left">
