@@ -1,6 +1,6 @@
 ## Prestigiio - Biografia・👋
 
-<img align="right" src="https://raw.githubusercontent.com/Diego-DevsS/Diego-DevsS/main/image/gg.gif" height="160px" />
+<!--<img align="right" src="https://raw.githubusercontent.com/Diego-DevsS/Diego-DevsS/main/image/gg.gif" height="160px" />!-->
 
 Olá, me chamo Thiago e sou um iniciante na programação.
 
