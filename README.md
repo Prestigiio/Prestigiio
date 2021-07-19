@@ -8,8 +8,6 @@ Olá, me chamo Thiago e sou um iniciante na programação.
 
 ### 🧑 Sobre mim
 
-- 🎓 Estou a pouco tempo atuando como desenvolvedor.
-- 💻 Sempre disposto a procurar coisas novas.
 - 🌱 Aprendendo sobre tudo um pouco.
 
 ### 💻 Ferramentas
